@@ -1,0 +1,21 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+.nav {
+    float: left;
+    padding: 0 1em;
+    border-right: 1px solid #dedede;
+    list-style: none;
+    line-height: 1.5;
+}
+.nav li {
+}
+.body {
+    float: left;
+    margin: 1em;
+    width: 50%;
+}
+
+.page-title {
+    margin-top: 0;
+}
